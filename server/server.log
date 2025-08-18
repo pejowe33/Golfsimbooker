@@ -1,0 +1,13 @@
+
+> golfsim-server@1.0.0 start
+> node app.js
+
+🚀 Golf Simulator Booking Server Started
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📍 Server running on: http://localhost:5000
+🌐 API endpoints: http://localhost:5000/api
+📊 Environment: development
+💾 Database: Supabase connected
+⏰ Started at: 8/18/2025, 6:25:15 AM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2025-08-18T06:25:18.379Z - GET /
